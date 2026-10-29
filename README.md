@@ -1,16 +1,59 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Misael Rivas
 
-<!--
-**MisaelAlexander/MisaelAlexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Full Stack | Apasionado por la tecnología y el desarrollo de software**
 
-Here are some ideas to get you started:
+¡Mucho gusto! Soy Misael Rivas, desarrollador Full Stack con conocimientos en diversas tecnologías de **Frontend y Backend**. Me apasiona crear soluciones tecnológicas, desarrollar aplicaciones y resolver problemas mediante el código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me adapto a diferentes tecnologías y herramientas para desarrollar proyectos funcionales, eficientes y escalables. 🚀
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+</p>
+
+### 🗄️ Bases de datos
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+---
+
+## Mi actividad de programación
+
+Puedes consultar mi actividad y el tiempo que dedico a programar a través de WakaTime.
+
+[![WakaTime](https://img.shields.io/badge/WakaTime-Mi%20actividad%20de%20programaci%C3%B3n-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@5c787e05-0c4c-4a42-884a-5d1ecdd0e9d6)
+
+---
+
+##  Objetivos
+
+-  Seguir mejorando mis habilidades como desarrollador Full Stack.
+-  Crear proyectos que aporten soluciones a problemas reales.
+-  Colaborar con otros desarrolladores y participar en nuevos proyectos.
+-  Aprender nuevas tecnologías y buenas prácticas de desarrollo.
+
+---
+
+
+---
+
+⭐ *Gracias por visitar mi perfil. ¡Siempre hay algo nuevo que aprender y construir!*
