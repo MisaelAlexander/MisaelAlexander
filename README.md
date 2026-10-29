@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Misael Rivas
 
-💻 **Desarrollador Full Stack | Apasionado por la tecnología y el desarrollo de software**
+ **Desarrollador Full Stack | Apasionado por la tecnología y el desarrollo de software**
 
 ¡Mucho gusto! Soy Misael Rivas, desarrollador Full Stack con conocimientos en diversas tecnologías de **Frontend y Backend**. Me apasiona crear soluciones tecnológicas, desarrollar aplicaciones y resolver problemas mediante el código.
 
@@ -8,9 +8,9 @@ Me adapto a diferentes tecnologías y herramientas para desarrollar proyectos fu
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -18,7 +18,7 @@ Me adapto a diferentes tecnologías y herramientas para desarrollar proyectos fu
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -26,7 +26,7 @@ Me adapto a diferentes tecnologías y herramientas para desarrollar proyectos fu
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
 </p>
 
-### 🗄️ Bases de datos
+###  Bases de datos
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
@@ -36,23 +36,12 @@ Me adapto a diferentes tecnologías y herramientas para desarrollar proyectos fu
 
 ---
 
-## Mi actividad de programación
-
-Puedes consultar mi actividad y el tiempo que dedico a programar a través de WakaTime.
-
-[![WakaTime](https://img.shields.io/badge/WakaTime-Mi%20actividad%20de%20programaci%C3%B3n-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@5c787e05-0c4c-4a42-884a-5d1ecdd0e9d6)
-
----
-
 ##  Objetivos
 
 -  Seguir mejorando mis habilidades como desarrollador Full Stack.
 -  Crear proyectos que aporten soluciones a problemas reales.
 -  Colaborar con otros desarrolladores y participar en nuevos proyectos.
 -  Aprender nuevas tecnologías y buenas prácticas de desarrollo.
-
----
-
 
 ---
 
