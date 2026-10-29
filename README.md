@@ -43,7 +43,7 @@ Cuento con conocimientos en diferentes tecnologías y herramientas que me permit
 
 Estas estadísticas muestran el tiempo que dedico a programar en cada lenguaje, registrado mediante WakaTime.
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=5c787e05-0c4c-4a42-884a-5d1ecdd0e9d6&layout=compact&theme=transparent&hide_border=true)](https://wakatime.com/@5c787e05-0c4c-4a42-884a-5d1ecdd0e9d6)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Misael&layout=compact&theme=transparent&hide_border=true)
 
 [Ver mi perfil de WakaTime](https://wakatime.com/@5c787e05-0c4c-4a42-884a-5d1ecdd0e9d6)
 
